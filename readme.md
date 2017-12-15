@@ -138,6 +138,6 @@ The only available controller is the `ShorteningController`. Every request hitti
 validated. Moreover, the appropriate provider has already been instantiated via the `ShorteningService`.
 The only step left is to return the response back to the user.
 
-##License
+## License
 
 This package is released under the MIT License.
