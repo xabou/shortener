@@ -1,7 +1,7 @@
 {
     "name": "shortener",
     "description": "URL Shortening Microservice.",
-    "keywords": ["Slim","url", "shortening", "microservice", "google", "bitly"],
+    "keywords": ["Slim", "url", "shortening", "microservice", "google", "bitly"],
     "license": "MIT",
     "authors": [
       {
